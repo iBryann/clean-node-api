@@ -1,3 +1,3 @@
 function aaa() {
-
+  return true;
 }

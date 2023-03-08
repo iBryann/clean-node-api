@@ -1,18 +1,7 @@
 {
   "name": "clean-node-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "@types/node": "^18.11.17",
-    "git-commit-msg-linter": "^4.5.0",
-    "typescript": "^4.9.4"
-  }
+  "author": "Bryann Henrique <bryann.enrique@gmail.com>",
+  "license": "MIT"
 }

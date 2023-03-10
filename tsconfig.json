@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ES2020",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
     "module": "ES2020",                                /* Specify what module code is generated. */
+    "moduleResolution": "node",
     "rootDir": "./",                                  /* Specify the root folder within your source files. */
     "outDir": "./dist",                                   /* Specify an output folder for all emitted files. */
     "allowJs": true,                                  /* Allow JavaScript files to be a part of your program. Use the 'checkJS' option to get errors from these files. */
